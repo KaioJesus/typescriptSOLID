@@ -1,0 +1,7 @@
+// dentro da pasta .vscode para só esse projeto ter essas configurações
+{
+  "code-runner.executorMap": {
+    // para configurar o code runner e utilizar no projeto local
+    "typescript": "cls && npx ts-node --files -T"
+  }
+}
